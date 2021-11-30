@@ -9,8 +9,9 @@
 <a href="https://hassanalinali.com/assets/CV.pdf">
     <img alt="Alin Ali Hassan | Resume" width="26px" src="https://camo.githubusercontent.com/45249cad819498efba2eed709751f8e65100dca2c3420ea7f182003a5cbc3824/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7064662e737667" />
 </a>
-
-![Visitors](https://visitor-badge.glitch.me/badge?page_id=hassanalinali.hassanalinali&right_color=brightgreen)
+<a>
+    <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=hassanalinali.hassanalinali&right_color=brightgreen" />
+</a>
 
 I'm Alin, Cloud Developer at [:cloud: NordCloud](https://nordcloud.com), based in :round_pushpin: Amsterdam, and passionate about :artist: Programming Language Design and :triangular_ruler: Cloud Architecture. I am also an open-source enthusiast.
 

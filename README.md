@@ -1,21 +1,21 @@
 # <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"> Hey There
 
-<a href="https://www.linkedin.com/in/hassanalinali/">
+<a href="https://www.linkedin.com/in/alinalihassan/">
   <img alt="Alin Ali Hassan | LinkedIn" width="26px" src="https://camo.githubusercontent.com/c8a9c5b414cd812ad6a97a46c29af67239ddaeae08c41724ff7d945fb4c047e5/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6c696e6b6564696e2e737667" />
 </a>
-<a href="mailto:hassanalinali@gmail.com">
+<a href="mailto:alinalihassan@gmail.com">
   <img alt="Alin Ali Hassan | Email" width="26px" src="https://camo.githubusercontent.com/21863a9a063d33b20608be917f5601f309abec90ae5cf5dedea38bb6b55d11ab/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f6d61696c2e737667" />
 </a>
-<a href="https://hassanalinali.com/assets/CV.pdf">
+<a href="https://storage.googleapis.com/alinalihassan-portfolio-assets/cv.pdf">
     <img alt="Alin Ali Hassan | Resume" width="26px" src="https://camo.githubusercontent.com/45249cad819498efba2eed709751f8e65100dca2c3420ea7f182003a5cbc3824/68747470733a2f2f6564656e742e6769746875622e696f2f537570657254696e7949636f6e732f696d616765732f7376672f7064662e737667" />
 </a>
 <a>
-    <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=hassanalinali.hassanalinali&right_color=brightgreen" />
+    <img alt="Visitors" src="https://visitor-badge.glitch.me/badge?page_id=alinalihassan.alinalihassan&right_color=brightgreen" />
 </a>
 
 I'm Alin, Cloud Developer at [:cloud: NordCloud](https://nordcloud.com), based in :round_pushpin: Amsterdam, and passionate about :artist: Programming Language Design and :triangular_ruler: Cloud Architecture. I am also an open-source enthusiast.
 
-📫 You can reach me at hassanalinali@gmail.com or alin@charit.ee
+📫 You can reach me at alinalihassan@gmail.com or alin@charit.ee
 
 ### :rocket: Languages
 
@@ -49,6 +49,6 @@ I'm Alin, Cloud Developer at [:cloud: NordCloud](https://nordcloud.com), based i
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hassanalinali&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=hassanalinali" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alinalihassan&show_icons=true" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alinalihassan" />
 </p>

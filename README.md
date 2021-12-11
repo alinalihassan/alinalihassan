@@ -48,7 +48,4 @@ I'm Alin, Cloud Developer at [:cloud: NordCloud](https://nordcloud.com), based i
 
 ## 📈 Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=alinalihassan&show_icons=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=alinalihassan" />
-</p>
+![Metrics](https://metrics.lecoq.io/alinalihassan?template=classic&config.timezone=Europe%2FAmsterdam)

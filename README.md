@@ -15,7 +15,7 @@
 
 I'm Alin, Cloud Developer at [:cloud: NordCloud](https://nordcloud.com), based in :round_pushpin: Amsterdam, and passionate about :artist: Programming Language Design and :triangular_ruler: Cloud Architecture. I am also an open-source enthusiast.
 
-📫 You can reach me at alinalihassan@gmail.com or alin@charit.ee
+📫 You can reach me at alinalihassan@gmail.com
 
 ### :rocket: Languages
 
